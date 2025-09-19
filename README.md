@@ -1,9 +1,9 @@
 # Korean Science RAG System (v3 Turbo Prompt)
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![김문수](https://avatars.githubusercontent.com/ashrate) | ![이상현](https://avatars.githubusercontent.com/yourshlee) | ![조선미](https://avatars.githubusercontent.com/LearnSphere-2025) | ![채병기](https://avatars.githubusercontent.com/avatar196kc) | ![염창환](https://avatars.githubusercontent.com/cat2oon) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [김문수](https://github.com/ashrate)             |            [이상현](https://github.com/yourshlee)             |            [조선미](https://github.com/LearnSphere-2025)             |            [채병기](https://github.com/avatar196kc)             |            [염창환](https://github.com/UpstageAILab)             |
+|            [김문수](https://github.com/ashrate)             |            [이상현](https://github.com/yourshlee)             |            [조선미](https://github.com/LearnSphere-2025)             |            [채병기](https://github.com/avatar196kc)             |            [염창환](https://github.com/cat2oon)             |
 |                    팀장 · 파이프라인 총괄                    |                 데이터 수집 및 관리                 |                  검색 모듈 개발                  |                 모델 서빙 및 리포트                 |              미참여              |
 
 ## 0. Overview
