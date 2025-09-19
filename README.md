@@ -21,8 +21,10 @@ pip install -r requirements.txt
 **주요 의존성:**
 - `elasticsearch`: ES 클라이언트 및 벌크 인덱싱
 - `sentence-transformers`: KLUE RoBERTa 임베딩 모델
-- `openai`: GPT-3.5 Turbo API 클라이언트
+- `openai`: GPT-3.5 Turbo, 4o mini API 클라이언트
+- `UPSTAGE`: solar api 클라이언트
 - `python-dotenv`: 환경 변수 관리
+  
 
 **설정 파일:**
 - `config/.env_v3_turbo_prompt`에 다음 정보 설정 필요:
